@@ -1,0 +1,15 @@
+h1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-text-stroke-width: 02px;
+    -webkit-text-stroke-color:black;
+}
+html{
+    background-image: url("https://classic.exame.com/wp-content/uploads/2018/10/kanyewest-season3.jpg?quality=70&strip=info&w=1024"); width: 530px;
+}
+p{
+    color: white; font-size: 60px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ -webkit-text-stroke-width: 02px;
+ -webkit-text-stroke-color:black;
+     
+}
